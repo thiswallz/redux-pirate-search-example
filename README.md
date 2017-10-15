@@ -12,6 +12,10 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > node server.js
 > npm start 
 ```
+#### Ports
+Node port: 3000
+WebApp port: 8080
+
 #### App
 WebApp running
 
