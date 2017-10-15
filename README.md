@@ -12,3 +12,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > node server.js
 > npm start 
 ```
+#### App
+WebApp running
+
+![Alt text](img.png?raw=true "Demo")
